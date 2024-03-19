@@ -32,3 +32,6 @@ last.forEach(btn => {
         history.push(color)
     })
 })
+
+
+window.addEventListener('load', () => alert('CTRL et - pour dézoomer') )
